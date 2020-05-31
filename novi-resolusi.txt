@@ -2,3 +2,5 @@ NOVI RESOLUSI
 - Wisuda 2020
 - Menguasai javascript
 - Bisa membuat front end dari 0
+- Membuat web profil bg wis
+- Menyelesaikan membaca 1 buku / 1 bulan
