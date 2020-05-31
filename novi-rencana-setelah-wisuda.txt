@@ -4,7 +4,8 @@ RENCANA SETELAH NOVI WISUDA
   *belajar gitar dari youtube 3 kali/minggu
 - Belajar PHP
 - Belajar framework javascript
- ^vue
+  ^ vue
+  ^ react
 - Belajar Database
 - Belajar OOP
 - Belajar Laravel
